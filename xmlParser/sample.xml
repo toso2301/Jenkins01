@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<TOTAL_NODE NAME="hihi" ID="bbb" HI="CCC">
+	<BODY SEQ="1">
+		<LIST>
+			<BUTTON>X</BUTTON>
+			<LABEL>XXXXXXXXXXXX</LABEL>
+			<TEXT>XXXXXXXXXXXX</TEXT>
+			<CHECK>XXXX</CHECK>
+			<BOX>XX</BOX>
+			<BROW>XX</BROW>
+			<OB>XXXX</OB>
+			<TYU>XXXXXXXXXXXX</TYU>
+			<RTYU>XXXXXX</RTYU>
+		</LIST>
+		<RTGHJ SEQ="1">
+			<GTHHK>1234</GTHHK>
+			<HBB MIN="10">
+				<HBBR MIN="10">
+					<JHGHJ>4567</JHGHJ>
+					<HFGGBB>4567</HFGGBB>
+					<HBB MIN="10">
+						<HBBR MIN="10">
+							<JHGHJ>6231</JHGHJ>
+							<GFD>3451</GFD>
+						</HBBR>
+					</HBB>
+				</HBBR>
+			</HBB>
+			<HBB MIN="10"></HBB>
+			<HBB MIN="10"></HBB>
+			<HBB MIN="10"></HBB>
+			<HBB MIN="10"></HBB>
+			<HBB MIN="10">
+				<HBBR MIN="10">
+					<JHGHJ>4567</JHGHJ>
+					<HFGGBB>4567</HFGGBB>
+					<HBB MIN="10">
+						<HBBR MIN="10">
+							<JHGHJ>6231</JHGHJ>
+							<GFD>3451</GFD>
+						</HBBR>
+					</HBB>
+				</HBBR>
+			</HBB>
+		</RTGHJ>
+		<RTGHJ SEQ="2">
+			<GTHHK>5678</GTHHK>
+			<GTHHK>9999</GTHHK>
+			<GTHHK>9876</GTHHK>
+			<HBB MIN="10">
+				<HBBR MIN="10">
+					<JHGHJ>4567</JHGHJ>
+					<HFGGBB>4567</HFGGBB>
+					<HBB MIN="10">
+						<HBBR MIN="10">
+							<JHGHJ>6231</JHGHJ>
+							<GFD>3451</GFD>
+						</HBBR>
+					</HBB>
+				</HBBR>
+			</HBB>
+			<HBB MIN="10">
+				<HBBR MIN="10">
+					<JHGHJ>4567</JHGHJ>
+					<HFGGBB>4567</HFGGBB>
+					<HBB MIN="10">
+						<HBBR MIN="10">
+							<JHGHJ>6231</JHGHJ>
+							<GFD>3451</GFD>
+						</HBBR>
+					</HBB>
+				</HBBR>
+			</HBB>
+			<HBB MIN="10">
+				<HBBR MIN="10">
+					<JHGHJ>4567</JHGHJ>
+					<HFGGBB>4567</HFGGBB>
+					<HBB MIN="10">
+						<HBBR MIN="10">
+							<JHGHJ>6231</JHGHJ>
+							<GFD>3451</GFD>
+						</HBBR>
+					</HBB>
+				</HBBR>
+			</HBB>
+		</RTGHJ>
+	</BODY>
+</TOTAL_NODE>
